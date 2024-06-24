@@ -1,0 +1,9 @@
+Come prima cosa da oggi realizzate un file README.md in cui scrivete il testo dell'esercizio e la sua scomposizione in sotto problemi. Alla realizzazione del file README.md corrisponde un push obbligatorio.
+Oggi non avete un numero minimo di push da eseguire ma da domani sì.
+
+# Esercizio
+
+Chiedi all’utente il suo nome,
+poi chiedi il suo cognome,
+poi chiedi il suo colore preferito
+Infine scrivi sulla pagina nomecognomecolorepreferito23
